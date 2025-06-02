@@ -2,7 +2,9 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Guilherme Cava Paiva do Nascimento, sou natural de São Paulo. Estou quase concluindo o ensino médio no SESI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Tenho apreço por tecnologia e venho sempre buscando ampliar meus conhecimentos na área da tecnologia em geral, aplicando boas práticas e buscando sempre deixar o código o mais limpo possível [LinkedIn](https://www.linkedin.com/in/guilhermecava).
+Me chamo Guilherme Cava Paiva do Nascimento, sou natural de São Paulo. Estou quase concluindo o ensino médio no SESI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Tenho apreço por tecnologia e venho sempre buscando ampliar meus conhecimentos na área da tecnologia em geral, aplicando boas práticas e buscando sempre deixar o código o mais limpo possível. 
+
+[LinkedIn](https://www.linkedin.com/in/guilhermecava)
 ---
 
 ## 🤖 Linguagens e Tecnologias
