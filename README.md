@@ -43,6 +43,14 @@ Me chamo Guilherme Cava Paiva do Nascimento, sou natural de São Paulo. Estou qu
 />
 <img 
     align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="70px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="70px" 
@@ -68,5 +76,6 @@ Me chamo Guilherme Cava Paiva do Nascimento, sou natural de São Paulo. Estou qu
 
 <br/>
 <br/>
+
 
 
