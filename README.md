@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Guilherme Cava Paiva do Nascimento, sou natural de São Paulo. Estou quase concluindo o ensino médio no SESI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. Tenho apreço por tecnologia e venho sempre buscando ampliar meus conhecimentos na área da tecnologia em geral, aplicando boas práticas e buscando sempre deixar o código o mais limpo possível. 
+Ao invés de reclamar de problemas, prefiro resolvê-los. Essa mentalidade, junto com a curiosidade que sempre tive sobre como os sites funcionam, me levou à área de desenvolvimento front-end. Por esses dois motivos, estou constantemente buscando melhorar minhas habilidades e me adaptar às necessidades do mercado.  Eu estou a procura de um emprego na minha área, para eu ter controle total das despesas da faculdade de Ciência da Computação estou cursando.  Atualmente trabalho no 3º Cartório de Notas de Guarulhos, como auxiliar de cartório. Presto qualquer tipo de serviço que o cartório precisar ou precisa.
 
 [LinkedIn](https://www.linkedin.com/in/guilhermecava)
 ---
@@ -76,6 +76,7 @@ Me chamo Guilherme Cava Paiva do Nascimento, sou natural de São Paulo. Estou qu
 
 <br/>
 <br/>
+
 
 
 
