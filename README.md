@@ -6,6 +6,7 @@ Ao invés de reclamar de problemas, prefiro resolvê-los. Essa mentalidade, junt
 
 [LinkedIn](https://www.linkedin.com/in/guilhermecava)
 <br>
+<br>
 [Portfolio](https://www.guicava.github.io)
 ---
 
